@@ -1,10 +1,11 @@
 AirBnb REST API
 
-Projektbeskrivning
+#Projektbeskrivning
+
 Detta är en fullstack typescript projekt för en AirBnb med en nische på naturnära & hundvänlig, byggd med MERN (MongoDB, Express, React & Node.js). Den är utformad för att hantera boenden, användare och bokningar, och erbjuder en RESTful API för att interagera med databasen. Backend-lösningen är kopplad till en NoSQL-databas(MongoDB). Frontend-lösningen av projektet är byggd med React och TailwindCSS och utvecklades i Visual Studio Code.
 
 * Funktionalitet 
-- Backend-lösning erbjuder följande funktioner:
+--Backend-lösning erbjuder följande funktioner:
 * Lista boenden & Lista boenden med filter: Hämta alla boenden eller filtrerade boenden med en GET-förfrågan.
 * Enskild boende: Hämta specifik boende med en GET-förfrågan och boendets ID som parameter.
 * Lägga till boenden: Lägg till en nytt boende i databsen med en POST-förfrågan.
